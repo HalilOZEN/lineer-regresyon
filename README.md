@@ -1,2 +1,2 @@
 # lineer-regresyon
-deneme 2
+burada 1. konuyu anlattığımı varsayalım .
